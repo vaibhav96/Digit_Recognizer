@@ -7,7 +7,7 @@ Django==1.8.7
 django-allauth==0.34.0
 django-bootstrap3==9.1.0
 django-polls==0.1
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 duplicity==0.7.6
 functools32==3.2.3.post2
 gyp==0.1
