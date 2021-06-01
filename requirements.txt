@@ -36,6 +36,6 @@ sqlparse==0.1.18
 subprocess32==3.2.7
 tornado==4.5.1
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 wget==3.2
