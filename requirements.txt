@@ -14,7 +14,7 @@ gyp==0.1
 idna==2.6
 lockfile==0.12.2
 matplotlib==2.0.2
-numpy==1.13.0
+numpy==1.21.0
 oauthlib==2.0.6
 pandas==0.20.2
 Pillow==5.0.0
